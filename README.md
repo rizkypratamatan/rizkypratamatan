@@ -39,11 +39,12 @@
 ---
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizkypratamatan) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizky.tech) 
-[![Tiktok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rizky.tech) 
-[![GitHub followers](https://img.shields.io/github/followers/rizkypratamatan?style=for-the-badge&logo=github)](https://github.com/rizkypratamatan) 
+[![Website](https://img.shields.io/badge/Website-Online-34A853?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.rizkypratamatan.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizkypratamatan/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizky.tech/) 
+[![Tiktok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rizky.tech/) 
+[![GitHub followers](https://img.shields.io/github/followers/rizkypratamatan?style=for-the-badge&logo=github)](https://github.com/rizkypratamatan/) 
 
 ---
 
-⭐️ From [rizkypratamatan](https://github.com/rizkypratamatan)  
+⭐️ From [rizkypratamatan](https://github.com/rizkypratamatan/)  
