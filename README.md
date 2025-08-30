@@ -15,9 +15,17 @@
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkypratamatan&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rizkypratamatan&theme=tokyonight)](https://git.io/streak-stats)</div>
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkypratamatan&layout=compact&theme=tokyonight)</div> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkypratamatan&show_icons=true&theme=tokyonight) 
+
+---
+
+## 📊 GitHub Streak  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rizkypratamatan&theme=tokyonight)](https://git.io/streak-stats) 
+
+---
+
+## 📊 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkypratamatan&layout=compact&theme=tokyonight) 
 
 ---
 
