@@ -19,19 +19,21 @@
 
 ---
 
-## 📊 GitHub Streak  
+## 🔥 GitHub Streak  
 [![GitHub Streak](https://streak-stats.demolab.com?user=rizkypratamatan&theme=tokyonight)](https://git.io/streak-stats) 
 
 ---
 
-## 📊 Top Languages  
+## 🌍 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkypratamatan&layout=compact&theme=tokyonight) 
 
 ---
 
 ## 🌱 Current Focus  
+- Developing **React frontend**  
 - Developing **Rust multiplatform apps**  
-- Developing **Django-based web projects**  
+- Developing **Django web projects**
+- Developing **Python AI engine**  
 - Developing **ESP32 IoT automation** 
 
 ---
