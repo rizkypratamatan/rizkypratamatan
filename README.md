@@ -36,4 +36,4 @@
 
 ---
 
-⭐️ From [USERNAME](https://github.com/rizkypratamatan)  
+⭐️ From [rizkypratamatan](https://github.com/rizkypratamatan)  
