@@ -1,7 +1,7 @@
 # Hello 👋, I'm Rizky Pratama 
 
 💡 **Fullstack Software Engineer** Specializing in **Scalable** Web Applications  
-🚀 Currently developing **Javascript React, Rust, Django, and IoT with ESP32**  
+🚀 Currently developing **Javascript React, Rust, Django, AI engine with Python and IoT with ESP32**  
 🌍 Based in **Tangerang, Indonesia**, building projects and sharing knowledge  
 
 ---
