@@ -32,7 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizkypratamatan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizky.tech)
 [![Tiktok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rizky.tech)
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github)](https://github.com/rizkypratamatan)
+[![GitHub followers](https://img.shields.io/github/followers/rizkypratamatan?style=for-the-badge&logo=github)](https://github.com/rizkypratamatan)
 
 ---
 
